@@ -83,7 +83,7 @@
             "tsConfig": "src/tsconfig.spec.json",
             "karmaConfig": "src/karma.conf.js",
             "styles": [
-              "src/styles.scss"
+              "styles.scss","theme.scss"
             ],
             "scripts": [],
             "assets": [
@@ -137,3 +137,4 @@
   },
   "defaultProject": "custom-theme"
 }
+
